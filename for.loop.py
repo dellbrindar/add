@@ -1,4 +1,4 @@
-name=input("Please enter your name :")
+name=input("please enter your name :")
 
 for n in name:
     print(f"your name has{name.count(n)} {n}")
